@@ -1,3 +1,6 @@
+/*
+    Autora: Laura Rocha
+*/
 #include <stdio.h>
 
 int main(){
